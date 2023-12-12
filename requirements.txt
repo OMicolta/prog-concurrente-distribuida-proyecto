@@ -1,2 +1,5 @@
 streamlit
-google_images_download
+bing-image-downloader
+opencv-python 
+numpy
+matplotlib
